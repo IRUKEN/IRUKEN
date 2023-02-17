@@ -54,7 +54,9 @@
 ###
 
 <div align="center">
-[![Spotify](https://iruken.vercel.app/api/spotify)](https://open.spotify.com/user/iruken)
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem-iruken.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ernisazuke)
+</div>
 </div>
 
 ###
