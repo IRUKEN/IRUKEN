@@ -54,7 +54,7 @@
 ###
 
 <div align="center">
- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ernisazuke&width={300}) 
+ ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ernisazuke&width={400}) 
 </div>
 
 ###
