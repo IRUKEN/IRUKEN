@@ -54,7 +54,7 @@
 ###
 
 <div align="center">
-[![Spotify](https://ernisazuke.vercel.app/api/spotify)](https://open.spotify.com/user/ernisazuke)
+[![Spotify](https://iruken.vercel.app/api/spotify)](https://open.spotify.com/user/iruken)
 </div>
 
 ###
