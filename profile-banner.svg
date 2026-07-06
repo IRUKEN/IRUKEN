@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-labelledby="title desc">
+  <title id="title">Erni Tabash banner</title>
+  <desc id="desc">Dark technical banner for a GitHub profile with blue accents and system geometry.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#04111f" />
+      <stop offset="55%" stop-color="#07192d" />
+      <stop offset="100%" stop-color="#0a2340" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#60a5fa" />
+      <stop offset="100%" stop-color="#3b82f6" />
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#1d4ed833" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="420" fill="url(#bg)" />
+  <rect width="1600" height="420" fill="url(#grid)" opacity="0.75" />
+
+  <g fill="none" stroke="#93c5fd" stroke-width="2" opacity="0.65">
+    <path d="M1040 110 L1230 40 L1390 135 L1510 92" />
+    <path d="M980 210 L1160 132 L1320 186 L1450 148 L1600 180" />
+    <path d="M1030 300 L1180 250 L1310 310 L1450 262 L1600 302" />
+    <path d="M1200 70 L1200 286" stroke-dasharray="7 8" />
+    <path d="M1360 64 L1360 260" stroke-dasharray="7 8" />
+  </g>
+
+  <g fill="none" stroke="url(#accent)" stroke-width="2.5">
+    <path d="M1110 160 L1260 88 L1410 160 L1260 232 Z" fill="#3b82f61a" />
+    <path d="M1200 198 L1348 122 L1492 198 L1348 274 Z" fill="#60a5fa12" />
+    <path d="M1110 160 L1200 198 L1200 330" />
+    <path d="M1410 160 L1492 198 L1492 318" />
+    <path d="M1260 232 L1348 274 L1348 372" />
+  </g>
+
+  <g fill="#60a5fa" opacity="0.9">
+    <rect x="1410" y="40" width="12" height="12" rx="2" />
+    <rect x="1440" y="40" width="12" height="12" rx="2" />
+    <rect x="1470" y="40" width="12" height="12" rx="2" />
+    <rect x="1410" y="70" width="12" height="12" rx="2" />
+    <rect x="1440" y="70" width="12" height="12" rx="2" />
+    <rect x="1470" y="70" width="12" height="12" rx="2" />
+  </g>
+
+  <g fill="#dbeafe">
+    <text x="92" y="188" font-family="Georgia, 'Times New Roman', serif" font-size="108" font-weight="700">Erni Tabash</text>
+    <text x="96" y="248" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="500" fill="#e2e8f0">Full-Stack Engineer | Systems Strategist | Product-Oriented Developer</text>
+  </g>
+
+  <g fill="none" stroke="#60a5fa" stroke-width="4" opacity="0.9">
+    <path d="M96 296 H366" />
+    <circle cx="366" cy="296" r="7" fill="#0f172a" />
+  </g>
+
+  <g fill="#dbeafe" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" letter-spacing="1.5">
+    <text x="94" y="352" fill="#60a5fa">BUILD</text>
+    <text x="94" y="378" fill="#e2e8f0">Scalable applications</text>
+
+    <text x="410" y="352" fill="#60a5fa">DEPLOY</text>
+    <text x="410" y="378" fill="#e2e8f0">Cloud-native delivery</text>
+
+    <text x="724" y="352" fill="#60a5fa">AUTOMATE</text>
+    <text x="724" y="378" fill="#e2e8f0">Reliable workflows</text>
+
+    <text x="1048" y="352" fill="#60a5fa">ARCHITECT</text>
+    <text x="1048" y="378" fill="#e2e8f0">Systems that scale</text>
+  </g>
+</svg>
