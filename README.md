@@ -1,16 +1,27 @@
+![Erni Tabash banner](./profile-banner.svg)
+
 # Erni Tabash
 
 **Full-Stack Engineer | Systems Strategist | Product-Oriented Developer**
 
 I build practical software systems that connect business goals with scalable technical execution. My work spans full-stack web platforms, cloud-ready applications, automation pipelines, and product-focused architecture.
 
-## What I work with
+## Stack
 
-**Frontend:** React, Angular, TypeScript, JavaScript, HTML, CSS  
-**Backend:** .NET, C#, Java, Spring Boot, Node.js  
-**Databases:** SQL Server, PostgreSQL, MongoDB, Redis, Prisma  
-**Cloud & DevOps:** AWS, Azure-ready environments, Docker, CI/CD, Git  
-**Product & Strategy:** UX thinking, technical planning, agile delivery, business-focused execution
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" width="36" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="36" width="36" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" width="36" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" width="36" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="36" width="36" alt=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" width="36" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="36" width="36" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" width="36" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" width="36" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="36" width="36" alt="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="36" width="36" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" width="36" alt="Docker" />
+</p>
 
 ## Current focus
 
