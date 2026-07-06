@@ -1,63 +1,62 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Erni Tabash
 
-###
+**Full-Stack Engineer | Systems Strategist | Product-Oriented Developer**
 
-<div align="center">
-  <img height="200" src="https://github.com/IRUKEN/IRUKEN/blob/main/loading-bar.gif?raw=true"  />
-</div>
+I build practical software systems that connect business goals with scalable technical execution. My work spans full-stack web platforms, cloud-ready applications, automation pipelines, and product-focused architecture.
 
-###
+## What I work with
 
-<h2 align="left">About me</h2>
+**Frontend:** React, Angular, TypeScript, JavaScript, HTML, CSS  
+**Backend:** .NET, C#, Java, Spring Boot, Node.js  
+**Databases:** SQL Server, PostgreSQL, MongoDB, Redis, Prisma  
+**Cloud & DevOps:** AWS, Azure-ready environments, Docker, CI/CD, Git  
+**Product & Strategy:** UX thinking, technical planning, agile delivery, business-focused execution
 
-###
+## Current focus
 
-<p align="left">I am a multifaceted individual with a diverse range of skills and interests. With a strong proficiency in Java programming, graphic design, cloud networking, and expertise in AWS and Google Cloud, I am a versatile and competent professional in the technology industry.<br><br>Beyond the realm of tech, my hobbies include video gaming, demonstrating a passion for the immersive world of interactive entertainment. In addition, I am also well-versed in the art of cooking, showcasing a keen interest in the culinary arts.<br><br>My multifarious skill set and varied interests highlight an individual who is capable of balancing technical acumen with creative passions, making me a unique and valuable asset in any professional setting.</p>
+- Building a local-first resume decision engine with Python and Rust
+- Refining my personal landing page and technical brand
+- Creating practical tools for job search automation and professional visibility
+- Designing systems that are maintainable and aligned with real business outcomes
 
-###
+## Selected work
 
-<p align="left">✨ Creating bugs since 2013<br>📚 I'm currently learning Next<br>🎯 Goals: be a github contributor<br>🎲 Fun fact: Did you know that the first ever computer mouse was made of wood?</p>
+### Resume Pipeline OS
 
-###
+A local-first job application decision engine that evaluates raw job descriptions against a professional profile and generates tailored CV output only when the fit is strong.
 
-<h2 align="left">I code with</h2>
+**Focus:** Rust, Python, automation, decision logic, local processing
 
-###
+### Personal Landing
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angularjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="52" alt="googlecloud logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
-</div>
+A React/Vite personal website focused on positioning, professional visibility, and technical branding.
 
-###
+**Focus:** React, TypeScript, Vite, UI structure, brand presentation
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
-</div>
+### Job Board MVP
 
-###
+A job board experiment for exploring recruiting workflows, job discovery, and lightweight product validation.
 
-<img src="https://raw.githubusercontent.com/IRUKEN/IRUKEN/blob/output/snake.svg" alt="Snake animation" />
+**Focus:** React, AWS Amplify, product validation, recruiting workflows
 
-###
+### White Label Backend
 
+A reusable backend foundation for SaaS-style products, focused on authentication, APIs, database structure, and scalable service logic.
 
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem-iruken.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/iruken)
-</div>
+**Focus:** Backend architecture, API design, auth, platform foundations
 
-&nbsp;<div align="center">
+### Premium Backend Auction
 
-###
+A backend auction system centered on business rules, service-layer design, and structured Java/Spring Boot architecture.
+
+**Focus:** Java, Spring Boot, domain logic, service orchestration
+
+## How I think
+
+I care about solving the right problem before writing more code. Good software is context, architecture, execution, and measurable value.
+
+## Contact
+
+- Email: ernitabash01@gmail.com
+- LinkedIn: https://www.linkedin.com/in/erni-tabash
+- GitHub: https://github.com/IRUKEN
