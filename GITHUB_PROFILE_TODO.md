@@ -6,6 +6,12 @@
 - Keep the public profile photo and name consistent across platforms
 - Remove outdated low-energy phrasing from the profile settings if it appears again
 
+## Visual profile treatment
+
+- Use `profile-banner.svg` at the top of the profile README
+- Keep the icon row focused on the main stack only
+- Avoid adding too many badges or decorative elements
+
 ## Recommended pinned repositories
 
 1. `resume-pipeline-os`
